@@ -1,0 +1,18 @@
+{
+  "testUser1": {
+    "salutation": "Mrs.",
+    "firstName": "Maneesha",
+    "lastName": "Fernando",
+    "email": "test1@gmail.com",
+    "country": "Algeria",
+    "role": "User"
+  },
+  "testUser2": {
+    "salutation": "Mr.",
+    "firstName": "Nimal",
+    "lastName": "Perera",
+    "email": "nimalp@example.com",
+    "country": "Sri Lanka",
+    "role": "Admin"
+  }
+}

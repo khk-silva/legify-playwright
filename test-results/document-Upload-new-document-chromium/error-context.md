@@ -1,0 +1,285 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - navigation [ref=e9]:
+    - button [ref=e10] [cursor=pointer]:
+      - img [ref=e12]: chevron_left
+    - img "org-logo" [ref=e14] [cursor=pointer]
+    - generic [ref=e17]:
+      - generic [ref=e19] [cursor=pointer]:
+        - heading "Launchpad" [level=4] [ref=e21]
+        - button "" [ref=e22]:
+          - generic [ref=e24]: 
+      - generic [ref=e26] [cursor=pointer]:
+        - heading "Templates" [level=4] [ref=e28]
+        - button "" [ref=e29]:
+          - generic [ref=e31]: 
+      - generic [ref=e33] [cursor=pointer]:
+        - heading "Documents" [level=4] [ref=e35]
+        - button "" [ref=e36]:
+          - generic [ref=e38]: 
+      - generic [ref=e40] [cursor=pointer]:
+        - heading "Build Your Own AI" [level=4] [ref=e42]
+        - button "" [ref=e43]:
+          - generic [ref=e45]: 
+      - generic [ref=e47] [cursor=pointer]:
+        - heading "Users" [level=4] [ref=e49]
+        - button "" [ref=e50]:
+          - generic [ref=e52]: 
+      - generic [ref=e54] [cursor=pointer]:
+        - heading "Subscriptions" [level=4] [ref=e56]
+        - button "" [ref=e57]:
+          - generic [ref=e59]: 
+      - generic [ref=e61] [cursor=pointer]:
+        - heading "Billing" [level=4] [ref=e63]
+        - button "" [ref=e64]:
+          - generic [ref=e66]: 
+    - generic [ref=e67] [cursor=pointer]:
+      - generic [ref=e69]: 
+      - generic [ref=e70]: Need assistance?
+  - generic [ref=e72]:
+    - generic [ref=e78]:
+      - generic [ref=e79]:
+        - button [ref=e81] [cursor=pointer]:
+          - img [ref=e82]: arrow_back
+        - generic [ref=e83]: Documents > INTERNSHIP OFFER LETTER
+      - generic [ref=e86]:
+        - button [ref=e89] [cursor=pointer]:
+          - img [ref=e90]:
+            - text: notifications
+            - generic: 99+
+        - button [ref=e92] [cursor=pointer]:
+          - img [ref=e93]: person_outline
+    - generic [ref=e95]:
+      - generic [ref=e100]:
+        - generic [ref=e102]:
+          - generic [ref=e103]: 
+          - generic [ref=e104]: Last Updated on 30/12/2025 (04:35 PM)
+        - generic [ref=e105]:
+          - button " Page Setup" [ref=e106] [cursor=pointer]:
+            - generic [ref=e107]:
+              - generic [ref=e108]: 
+              - text: Page Setup
+          - button " Preview" [ref=e109] [cursor=pointer]:
+            - generic [ref=e110]:
+              - generic [ref=e111]: 
+              - text: Preview
+          - button " Collaborate" [active] [ref=e112] [cursor=pointer]:
+            - generic [ref=e113]:
+              - generic [ref=e114]: 
+              - text: Collaborate
+          - button " Analyse" [ref=e115] [cursor=pointer]:
+            - generic [ref=e116]:
+              - generic [ref=e117]: 
+              - text: Analyse
+          - button "Save as Draft" [ref=e118] [cursor=pointer]
+          - button "Finish" [ref=e119] [cursor=pointer]
+      - generic [ref=e121]:
+        - generic [ref=e123]:
+          - generic [ref=e124]:
+            - generic [ref=e125]:
+              - generic [ref=e126]: 
+              - generic [ref=e127]: Elements
+            - generic [ref=e128]:
+              - generic [ref=e129]:
+                - generic [ref=e130]: 
+                - generic [ref=e131]: Text
+              - generic [ref=e132]:
+                - generic [ref=e133]: 
+                - generic [ref=e134]: Signature and Stamp
+              - generic [ref=e135]:
+                - generic [ref=e136]: 
+                - generic [ref=e137]: Page Breaker
+              - generic [ref=e138]:
+                - generic [ref=e139]: 
+                - generic [ref=e140]: Horizontal Line
+              - generic [ref=e141]:
+                - generic [ref=e142]: 
+                - generic [ref=e143]: Image
+              - generic [ref=e144]:
+                - generic [ref=e145]: 
+                - generic [ref=e146]: Table
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - generic [ref=e150]: 
+              - generic [ref=e151]: Variables
+            - button " Add Variable" [ref=e153] [cursor=pointer]:
+              - generic [ref=e154]:
+                - generic [ref=e155]: 
+                - text: Add Variable
+            - generic [ref=e156]:
+              - generic [ref=e157]: 
+              - generic [ref=e158]:
+                - text: Copy the added variable from the row and paste it with
+                - strong [ref=e159]: Ctrl + V
+                - text: on the required section in the document.
+        - generic [ref=e161]:
+          - application [ref=e165]:
+            - iframe [ref=e169]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f1e1]:
+                - heading "INTERNSHIP OFFER LETTER – QA ENGINEER INTERN" [level=3] [ref=f1e2]:
+                  - strong [ref=f1e3]: INTERNSHIP OFFER LETTER – QA ENGINEER INTERN
+          - application [ref=e174]:
+            - iframe [ref=e178]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f2e1]:
+                - paragraph [ref=f2e2]:
+                  - generic [ref=f2e4]:
+                    - strong [ref=f2e5]: "To:"
+                    - text: "[Intern Name]"
+                    - strong [ref=f2e6]: "Address:"
+                    - text: "[Intern Address]"
+          - application [ref=e183]:
+            - iframe [ref=e187]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f3e1]:
+                - paragraph [ref=f3e2]:
+                  - generic [ref=f3e3]: Dear [Intern Name],
+          - application [ref=e192]:
+            - iframe [ref=e196]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f4e1]:
+                - paragraph [ref=f4e2]:
+                  - generic [ref=f4e4]:
+                    - text: We are delighted to offer you the position of
+                    - strong [ref=f4e5]: QA Engineer Intern
+                    - text: at
+                    - strong [ref=f4e6]: "[Company Name]"
+                    - text: . This internship is designed to give you hands-on experience in software quality assurance and testing processes. You will gain practical knowledge of testing methodologies, automation tools, and the overall software development lifecycle.
+          - application [ref=e201]:
+            - iframe [ref=e205]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f5e1]:
+                - heading "2. Roles and Responsibilities" [level=3] [ref=f5e2]:
+                  - strong [ref=f5e3]: 2. Roles and Responsibilities
+          - application [ref=e210]:
+            - iframe [ref=e214]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f6e1]:
+                - paragraph [ref=f6e2]:
+                  - generic [ref=f6e3]: As a QA Engineer Intern, your primary responsibilities will include assisting in the creation and execution of test cases for web and mobile applications, performing both manual and automated testing, identifying and documenting bugs, and collaborating with the development team to verify fixes. You will also participate in daily stand-ups and sprint meetings, provide feedback for process improvements, and maintain detailed records of test results. This experience will help you understand the practical aspects of quality assurance and testing in a professional environment.
+          - application [ref=e219]:
+            - iframe [ref=e223]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f7e1]:
+                - heading "3. Learning Opportunities" [level=3] [ref=f7e2]:
+                  - strong [ref=f7e3]: 3. Learning Opportunities
+          - application [ref=e228]:
+            - iframe [ref=e232]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f8e1]:
+                - paragraph [ref=f8e2]:
+                  - generic [ref=f8e4]:
+                    - text: This internship is structured to provide you with significant learning opportunities. You will gain exposure to the
+                    - strong [ref=f8e5]: software testing lifecycle (STLC)
+                    - text: ", experience with"
+                    - strong [ref=f8e6]: automation tools such as Selenium and Postman
+                    - text: ", and familiarity with"
+                    - strong [ref=f8e7]: bug tracking and reporting software
+                    - text: . Additionally, you will develop skills in
+                    - strong [ref=f8e8]: collaboration, communication, and problem-solving
+                    - text: by working alongside experienced QA engineers and developers. By the end of your internship, you should have a strong understanding of QA practices in a professional software development context.
+          - application [ref=e237]:
+            - iframe [ref=e241]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f9e1]:
+                - heading "4. Stipend and Benefits" [level=3] [ref=f9e2]:
+                  - strong [ref=f9e3]: 4. Stipend and Benefits
+          - application [ref=e246]:
+            - iframe [ref=e250]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f10e1]:
+                - paragraph [ref=f10e2]:
+                  - generic [ref=f10e4]:
+                    - text: During the internship period, you will receive a monthly stipend of
+                    - strong [ref=f10e5]: "[Insert Amount]"
+                    - text: to support your efforts. Additional allowances such as transportation or meal reimbursement may be provided based on company policy. Please note that this internship is primarily for educational and professional development purposes, and it does not imply a guarantee of permanent employment with the company.
+          - application [ref=e255]:
+            - iframe [ref=e259]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f11e1]:
+                - heading "5. Working Hours" [level=3] [ref=f11e2]:
+                  - strong [ref=f11e3]: 5. Working Hours
+          - application [ref=e264]:
+            - iframe [ref=e268]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f12e1]:
+                - paragraph [ref=f12e2]:
+                  - generic [ref=f12e4]:
+                    - text: Your expected working hours will be
+                    - strong [ref=f12e5]: "[e.g., 40 hours per week]"
+                    - text: ", generally from"
+                    - strong [ref=f12e6]: Monday to Friday
+                    - text: . Flexibility can be provided for academic commitments or personal reasons with prior approval from your supervisor. It is expected that you will attend all scheduled meetings, complete assigned tasks on time, and actively engage in team activities to maximize the learning experience.
+          - application [ref=e273]:
+            - iframe [ref=e277]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f13e1]:
+                - heading "6. Confidentiality and Conduct" [level=3] [ref=f13e2]:
+                  - strong [ref=f13e3]: 6. Confidentiality and Conduct
+          - application [ref=e282]:
+            - iframe [ref=e286]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f14e1]:
+                - paragraph [ref=f14e2]:
+                  - generic [ref=f14e3]: As a QA Engineer Intern, you will have access to confidential company data, project documentation, and client information. It is your responsibility to maintain strict confidentiality and adhere to all company policies regarding data security and professional conduct. Any unauthorized disclosure or misuse of company information, or behavior inconsistent with company standards, may result in immediate termination of the internship.
+          - application [ref=e291]:
+            - iframe [ref=e295]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f15e1]:
+                - heading "7. Termination" [level=3] [ref=f15e2]:
+                  - strong [ref=f15e3]: 7. Termination
+          - application [ref=e300]:
+            - iframe [ref=e304]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f16e1]:
+                - paragraph [ref=f16e2]:
+                  - generic [ref=f16e4]:
+                    - text: Either party may terminate the internship by providing
+                    - strong [ref=f16e5]: "[2 weeks] written notice"
+                    - text: . The company reserves the right to terminate the internship immediately in cases of misconduct, negligence, or violation of company policies. The intern is expected to return all company property and confidential materials upon termination or completion of the internship.
+          - application [ref=e309]:
+            - iframe [ref=e313]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f17e1]:
+                - heading "8. Acceptance" [level=3] [ref=f17e2]:
+                  - strong [ref=f17e3]: 8. Acceptance
+          - application [ref=e318]:
+            - iframe [ref=e322]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f18e1]:
+                - paragraph [ref=f18e2]:
+                  - generic [ref=f18e4]:
+                    - text: If you accept this internship offer, please sign and return a copy of this letter by
+                    - strong [ref=f18e5]: "[Insert Date]"
+                    - text: . Your signature will indicate that you have read, understood, and agreed to the terms and conditions outlined in this letter. We look forward to welcoming you to the team and are confident that this internship will be a valuable and rewarding experience for your professional growth.
+          - application [ref=e327]:
+            - iframe [ref=e331]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f19e1]:
+                - paragraph [ref=f19e2]:
+                  - strong [ref=f19e5]: Sincerely,
+          - application [ref=e336]:
+            - iframe [ref=e340]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f20e1]:
+                - paragraph [ref=f20e2]:
+                  - generic [ref=f20e4]:
+                    - text: "[HR / Hiring Manager Name]"
+                    - text: "[Designation]"
+                    - text: "[Company Name]"
+                    - text: "[Contact Information]"
+          - application [ref=e345]:
+            - iframe [ref=e349]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f21e1]:
+                - paragraph [ref=f21e2]:
+                  - strong [ref=f21e5]: "Acknowledgment by Intern:"
+          - application [ref=e354]:
+            - iframe [ref=e358]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f22e1]:
+                - paragraph [ref=f22e2]:
+                  - generic [ref=f22e4]:
+                    - text: I,
+                    - strong [ref=f22e5]: "[Intern Name]"
+                    - text: ", accept the internship offer for the position of"
+                    - strong [ref=f22e6]: QA Engineer Intern
+                    - text: at
+                    - strong [ref=f22e7]: "[Company Name]"
+                    - text: and agree to the terms and conditions mentioned above.
+          - application [ref=e363]:
+            - iframe [ref=e367]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f23e1]:
+                - paragraph [ref=f23e2]:
+                  - generic [ref=f23e4]:
+                    - strong [ref=f23e5]: "Signature:"
+                    - text: _____________________
+                    - strong [ref=f23e6]: "Date:"
+                    - text: _____________________
+          - application [ref=e372]:
+            - iframe [ref=e376]:
+              - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f24e1]:
+                - paragraph [ref=f24e2]
+          - generic [ref=e379]: Drag an element from the left and drop it here.
+```

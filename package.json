@@ -1,0 +1,19 @@
+{
+  "name": "playwright-legify.ai2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "npx playwright test",
+  "test:headed": "npx playwright test --headed",
+  "codegen": "npx playwright codegen"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

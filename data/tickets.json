@@ -1,0 +1,8 @@
+{
+  "validTicket": {
+    "priority": "High",
+    "category": "Performance Issue",
+    "subject": "Automation Ticket",
+    "description": "Created using Playwright TypeScript"
+  }
+}
